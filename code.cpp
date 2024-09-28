@@ -15,7 +15,7 @@ int main() {
     
     // Array unificato con tutti gli elementi a disposizione 
     string caratteri = "0123456789"
-                       "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+                       "QWERTYUIOPASDFGHJKLZXCVBNM"
                        "abcdefghijklmnopqrstuvwxyz"
                        "!@#$%&?";
     
